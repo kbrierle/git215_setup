@@ -1,2 +1,2 @@
 # git215_setup
-git215_setup file
+## Author: Kayla Brierley
